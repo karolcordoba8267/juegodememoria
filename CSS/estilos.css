@@ -1,0 +1,15 @@
+.altura{
+    height: 100px;
+}
+.tiempo-agotado{
+    color: red;
+    font-size: 20px;
+}
+
+.tablero div img:hover{
+    transform: scale(1.2);
+    box-shadow: 2px -1px 11px 11px rgba(209,184,187,0.75);
+}
+.tablero div img{
+   border-radius: 10px;
+}
